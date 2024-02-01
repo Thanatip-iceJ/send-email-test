@@ -1,9 +1,11 @@
 import React from "react";
 
-function Textarea({ name, value }) {
+function Textarea({ name, value, onChange }) {
   return (
     <textarea
       name={name}
+      value={value}
+      onChange={onChange}
       id=""
       cols="30"
       rows="10"
