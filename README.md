@@ -1,4 +1,4 @@
-**_ ขั้นตอนการ setup โปรเจค _**
+## ขั้นตอนการ setup โปรเจค
 
 ```
 - pnpm vite@lastest <projectname> เพื่อสร้างโปรเจคReact
