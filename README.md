@@ -2,6 +2,7 @@
 
 ```
 - pnpm vite@lastest <projectname> เพื่อสร้างโปรเจคReact
+- pnpm i
 - ลง dependencies ที่จะใช้ให้เรียบร้อย
 - pnpm dev เพื่อรันเซิฟเวอร์
 ```
@@ -12,4 +13,5 @@
 emailjs
 @mui/icons
 tailwindcss
+react-toastify
 ```
